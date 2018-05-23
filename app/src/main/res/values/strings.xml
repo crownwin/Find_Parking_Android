@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">1512502_MiniProject1</string>
+    <string name="title_activity_maps">1512502_MiniProject1</string>
+    <string name="ok_addParking">Add successfully</string>
+    <string name="error_addParking">Please fill any empty fields</string>
+    <string name="enter_parking_again">Plesase enter parking position!</string>
+    <string name="edit_parking">Please edit other parking position!</string>
+    <string name="hcmus">Đại Học Khoa học Tự Nhiên tp HCM</string>
+    <string name="edit_address">Please edit address</string>
+    <string name="file_list_parking">list_parking.txt</string>
+    <string name="edit_origin_des">Please edit origin address or destination address</string>
+    <string name="fill_in">Please fill any empty fields</string>
+    <string name="edit_origin">Please edit origin address</string>
+</resources>
